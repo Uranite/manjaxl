@@ -1,4 +1,4 @@
 Pillow
-jxlpy
+pillow-jxl-plugin
 tqdm
 numpy
