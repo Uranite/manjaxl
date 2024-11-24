@@ -13,8 +13,8 @@ import zipfile
 
 import numpy
 
+import pillow_jxl
 from PIL import Image, ImageChops, ImageMath, ImageFilter
-from jxlpy import JXLImagePlugin
 from tqdm import tqdm
 
 Thumb = collections.namedtuple('Thumb', 'name key thumb tinygray')
